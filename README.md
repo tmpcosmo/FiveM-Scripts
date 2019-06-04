@@ -1,4 +1,4 @@
-#FiveM Scripts
+# FiveM Scripts
 
 ![alt text](https://kasper-rasmussen.dk/assets/images/banner_low.png "Logo")
 
@@ -7,7 +7,7 @@ Disse projekter har været under udvikling i et stykke tid, og et par stykker ha
 Da jeg håber nogen kan bruge dem, bliver de nu delt her, og håber i tager godt imod dem. 
 Dog skal det siges, at jeg som sagt ikke har haft dem alle afprøvet på en officel server med mange spillere, og derfor sætter jeg stor pris på beskeder med eventuelle fejl, mangler og lignende. 
 
-##Projekter:
+## Projekter:
 
 ![alt text](https://kasper-rasmussen.dk/assets/images/icons/info_16x16.png "Waiting") kasperr_base
 
@@ -27,17 +27,18 @@ Dog skal det siges, at jeg som sagt ikke har haft dem alle afprøvet på en offi
 
 ![alt text](https://kasper-rasmussen.dk/assets/images/icons/check_16x16.png "Completed") kasperr_richpresence
 
-###Dokumentation:
+### Dokumentation:
 
 Alle projekter har en inkluderet config fil, hvor der er mulighed for at gøre oplevelsen for jeres spillere mere personligt. 
 Her vil i se en fil: `config.lua`, som primært er configs til diverse Lua filer.
 Derudover vil der i visse tilfælde være en fil: `configNui.js`, hvor det omhandler den medfølgende NUI menu (lavet i HTML, CSS & JavaScript).
 
-####Progress Handler
+#### Progress Handler
 Jeg har udarbejdet en "progress handler", som er beregnet til at køre et ønsket event efter kort tid. 
 Det kan være smart at benytte den, hvis man ikke ønsker, at folk kan indtage mad, drikke eller samle genstande op meget hurtigt, eller man generalt ønsker at spilleren skal vente et par sekunder for at kunne fortsætte.
 
-#####Brug af den omtalte "progress handler":
+##### Brug af den omtalte "progress handler":
+
 **Parametre:**
 
 Titel: Overskrift
