@@ -29,7 +29,7 @@ Dog skal det siges, at jeg som sagt ikke har haft dem alle afprøvet på en offi
 
 ![alt text](https://kasper-rasmussen.dk/assets/images/icons/check_16x16.png "Completed") kasperr_richpresence
 
-### Dokumentation:
+## Dokumentation:
 
 Alle projekter har en inkluderet config fil, hvor der er mulighed for at gøre oplevelsen for jeres spillere mere personligt. 
 Her vil i se en fil: `config.lua`, som primært er configs til diverse Lua filer.
