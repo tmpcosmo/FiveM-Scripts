@@ -10,13 +10,21 @@ Dog skal det siges, at jeg som sagt ikke har haft dem alle afprøvet på en offi
 ##Projekter:
 
 ![alt text](https://kasper-rasmussen.dk/assets/images/icons/info_16x16.png "Waiting") kasperr_base
+
 ![alt text](https://kasper-rasmussen.dk/assets/images/icons/check_16x16.png "Completed") kasperr_carjack_alert
+
 ![alt text](https://kasper-rasmussen.dk/assets/images/icons/check_16x16.png "Completed") kasperr_info_menu [(video)](https://youtu.be/wizzv1FT7Tk "Info menu - video")
+
 ![alt text](https://kasper-rasmussen.dk/assets/images/icons/check_16x16.png "Completed") kasperr_inventory [(video)](https://youtu.be/loLkBvHa110 "Inventory - video")
+
 ![alt text](https://kasper-rasmussen.dk/assets/images/icons/check_16x16.png "Completed") kasperr_jobcenter [(video)](https://youtu.be/CjaqFxzWaTM "Jobcenter - video")
+
 ![alt text](https://kasper-rasmussen.dk/assets/images/icons/check_16x16.png "Completed") kasperr_loadout [(video)](https://youtu.be/iAjVkuo1j3A "Loadout - video")
+
 ![alt text](https://kasper-rasmussen.dk/assets/images/icons/check_16x16.png "Completed") kasperr_police_equipment [(video)](https://youtu.be/WORBnH0MDuA "Police equipment - video")
+
 ![alt text](https://kasper-rasmussen.dk/assets/images/icons/check_16x16.png "Completed") kasperr_progress_handler
+
 ![alt text](https://kasper-rasmussen.dk/assets/images/icons/check_16x16.png "Completed") kasperr_richpresence
 
 ###Dokumentation:
