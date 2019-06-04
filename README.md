@@ -4,7 +4,9 @@
 
 
 Disse projekter har været under udvikling i et stykke tid, og et par stykker har været afprøvet på serveren DanDream, som jeg har valgt at forlade. 
+
 Da jeg håber nogen kan bruge dem, bliver de nu delt her, og håber i tager godt imod dem. 
+
 Dog skal det siges, at jeg som sagt ikke har haft dem alle afprøvet på en officel server med mange spillere, og derfor sætter jeg stor pris på beskeder med eventuelle fejl, mangler og lignende. 
 
 ## Projekter:
@@ -31,10 +33,12 @@ Dog skal det siges, at jeg som sagt ikke har haft dem alle afprøvet på en offi
 
 Alle projekter har en inkluderet config fil, hvor der er mulighed for at gøre oplevelsen for jeres spillere mere personligt. 
 Her vil i se en fil: `config.lua`, som primært er configs til diverse Lua filer.
+
 Derudover vil der i visse tilfælde være en fil: `configNui.js`, hvor det omhandler den medfølgende NUI menu (lavet i HTML, CSS & JavaScript).
 
 #### Progress Handler
 Jeg har udarbejdet en "progress handler", som er beregnet til at køre et ønsket event efter kort tid. 
+
 Det kan være smart at benytte den, hvis man ikke ønsker, at folk kan indtage mad, drikke eller samle genstande op meget hurtigt, eller man generalt ønsker at spilleren skal vente et par sekunder for at kunne fortsætte.
 
 ##### Brug af den omtalte "progress handler":
@@ -42,9 +46,13 @@ Det kan være smart at benytte den, hvis man ikke ønsker, at folk kan indtage m
 **Parametre:**
 
 Titel: Overskrift
+
 Tid: Her angiver vi hvor lang tid der skal gå før den er færdig
+
 Type: Vælg om det event, som skal køres er "client" eller "server"
+
 Event: Navnet på det event som skal køres
+
 Args: Eventuelle variabler som man ønsker at sende med hen til det event, man ønsker at køre
 
 ```lua
