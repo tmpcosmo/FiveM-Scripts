@@ -7,7 +7,7 @@ Disse projekter har været under udvikling i et stykke tid, og et par stykker ha
 
 Da jeg håber nogen kan bruge dem, bliver de nu delt her, og håber i tager godt imod dem. 
 
-Dog skal det siges, at jeg som sagt ikke har haft dem alle afprøvet på en officel server med mange spillere, og derfor sætter jeg stor pris på beskeder med eventuelle fejl, mangler og lignende. 
+Dog skal det siges, at jeg som sagt ikke har haft dem alle afprøvet på en officiel server med mange spillere, og derfor sætter jeg stor pris på beskeder med eventuelle fejl, mangler og lignende. 
 
 ## Projekter:
 
@@ -41,7 +41,7 @@ Jeg har udarbejdet en "progress handler", som er beregnet til at køre et ønske
 
 Det kan være smart at benytte den, hvis man ikke ønsker, at folk kan indtage mad, drikke eller samle genstande op meget hurtigt, eller man generalt ønsker at spilleren skal vente et par sekunder for at kunne fortsætte.
 
-##### Brug af den omtalte "progress handler":
+#### Brug af den omtalte "progress handler":
 
 **Parametre:**
 
