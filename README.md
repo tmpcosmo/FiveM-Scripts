@@ -1,4 +1,4 @@
-# FiveM Scripts
+# FiveM Scripts - vRP
 
 ![alt text](https://kasper-rasmussen.dk/assets/images/banner_low.png "Logo")
 
