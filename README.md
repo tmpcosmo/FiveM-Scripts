@@ -58,3 +58,8 @@ Args: Eventuelle variabler som man Ã¸nsker at sende med hen til det event, man Ã
 ```lua
 TriggerClientEvent("kasperr_progress_handler:open", "My title", 5000, "client", "event:name", {"random string"}) 
 ```
+
+### Kontakt 
+
+Steam: https://steamcommunity.com/id/kasperrasmussen/
+Discord: Kasper.Rasmussen#0001
