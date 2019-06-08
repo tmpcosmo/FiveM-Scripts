@@ -61,7 +61,7 @@ TriggerClientEvent("kasperr_progress_handler:open", "My title", 5000, "client", 
 
 ## Retningslinjer
 
-Vigtig: man må gerne redigere i mine scripts, men ikke fjerne mit navn eller "credits".
+Vigtig: man må gerne redigere i mine scripts, men IKKE fjerne mit navn eller "credits".
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
